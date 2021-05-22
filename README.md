@@ -1,4 +1,4 @@
-# Face-Swapper
+# Face Swapper
 Swaps the faces of people in a video stream when more than one person is in the frame.
 
 ## Requirements
