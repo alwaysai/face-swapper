@@ -11,6 +11,8 @@ Run the app as outlined [here](https://alwaysai.co/blog/building-and-deploying-a
 ## Support
 Docs: https://dashboard.alwaysai.co/docs/getting_started/introduction.html
 
-Community Discord: https://discord.gg/rjDdRPT
+Community Discord: https://discord.gg/alwaysai
 
 Email: support@alwaysai.co
+co
+
