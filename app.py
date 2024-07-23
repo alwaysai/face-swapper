@@ -11,7 +11,7 @@ To change the computer vision models, follow this guide:
 https://dashboard.alwaysai.co/docs/application_development/changing_the_model.html
 
 To change the engine and accelerator, follow this guide:
-https://dashboard.alwaysai.co/docs/application_development/changing_the_engine_and_accelerator.html
+https://docs.alwaysai.co/application_development/application_configuration.html#change-the-engine-and-accelerator
 """
 def swap_faces(obox, nbox, image1, image2):
     """[summary]
